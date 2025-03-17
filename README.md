@@ -2,7 +2,9 @@
 
 A mesmerizing p5.js visualization that simulates the Northern Lights (Aurora Borealis) with dynamic flowing curtains of light, color shifts, star field background, and reflections on a landscape.
 
-![Aurora Borealis Simulation](https://placeholder-image.com/aurora-borealis-simulation.png)
+
+https://github.com/user-attachments/assets/c9c1d02a-05c1-45ed-910d-cdabb4a2ffe0
+
 
 ## Features
 
